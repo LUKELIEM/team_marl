@@ -15,6 +15,8 @@ organization intelligence is separately encoded in the team’s culture, which
 determines how team rewards are doled out to its agents on top of the
 environmental reward they gather during training.
 
+<img src="images/team_marl.png" width="500">
+
 With the separation of agent and organization intelligences, the methodology
 becomes mathematically and computationally simple. It can scale easily with the
 number of agents and teams and it enables teams of agents to achieve a wide range
