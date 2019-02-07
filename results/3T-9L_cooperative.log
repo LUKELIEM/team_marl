@@ -1,0 +1,3051 @@
+###### Dir = MA_models/3T-9L/cooperative/cf0.01/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 343.3
+Av. agent reward = 38.15
+Num laser fired = 284.9
+Total US Hit (friendly fire) = 33.9
+Total THEM Hit = 127.0
+friendly fire (%) = 0.211
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 191.4
+Tribe Saxons has total reward of 44.9
+Tribe Franks has total reward of 107.0
+Dominating Tribe: Vikings
+Team dominance: 2.52x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 21.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 2.2
+US agents hit = 0.1
+THEM agents hit = 0.5
+Agent2 of Vikings aggressiveness is 0.15
+Agent2 reward is 168.1
+US agents hit = 14.6
+THEM agents hit = 59.8
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 37.5
+US agents hit = 1.3
+THEM agents hit = 3.8
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 6.6
+US agents hit = 2.1
+THEM agents hit = 4.8
+Agent5 of Saxons aggressiveness is 0.03
+Agent5 reward is 0.8
+US agents hit = 3.7
+THEM agents hit = 12.1
+Agent6 of Franks aggressiveness is 0.01
+Agent6 reward is 22.1
+US agents hit = 3.2
+THEM agents hit = 9.2
+Agent7 of Franks aggressiveness is 0.04
+Agent7 reward is 0.0
+US agents hit = 5.6
+THEM agents hit = 26.5
+Agent8 of Franks aggressiveness is 0.03
+Agent8 reward is 84.9
+US agents hit = 3.1
+THEM agents hit = 10.2
+Training time per epochs: 2.95 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 350.5
+Av. agent reward = 38.95
+Num laser fired = 322.3
+Total US Hit (friendly fire) = 44.2
+Total THEM Hit = 146.3
+friendly fire (%) = 0.232
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 150.3
+Tribe Saxons has total reward of 77.6
+Tribe Franks has total reward of 122.7
+Dominating Tribe: Vikings
+Team dominance: 1.50x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 15.1
+US agents hit = 0.9
+THEM agents hit = 2.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 10.7
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent2 of Vikings aggressiveness is 0.12
+Agent2 reward is 124.5
+US agents hit = 22.5
+THEM agents hit = 80.2
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 42.0
+US agents hit = 1.1
+THEM agents hit = 5.1
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 24.9
+US agents hit = 0.1
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.05
+Agent5 reward is 10.7
+US agents hit = 3.2
+THEM agents hit = 11.7
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 37.7
+US agents hit = 0.5
+THEM agents hit = 3.7
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.2
+US agents hit = 1.0
+THEM agents hit = 3.2
+Agent8 of Franks aggressiveness is 0.12
+Agent8 reward is 84.8
+US agents hit = 15.0
+THEM agents hit = 40.2
+Training time per epochs: 2.91 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 355.6
+Av. agent reward = 39.51
+Num laser fired = 364.1
+Total US Hit (friendly fire) = 46.9
+Total THEM Hit = 162.7
+friendly fire (%) = 0.224
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 141.0
+Tribe Saxons has total reward of 92.0
+Tribe Franks has total reward of 122.6
+Dominating Tribe: Vikings
+Team dominance: 1.31x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 13.7
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 15.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.19
+Agent2 reward is 112.2
+US agents hit = 24.4
+THEM agents hit = 84.0
+Agent3 of Saxons aggressiveness is 0.06
+Agent3 reward is 29.9
+US agents hit = 3.9
+THEM agents hit = 13.5
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 23.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.04
+Agent5 reward is 38.5
+US agents hit = 6.5
+THEM agents hit = 23.5
+Agent6 of Franks aggressiveness is 0.02
+Agent6 reward is 35.9
+US agents hit = 2.7
+THEM agents hit = 15.5
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 22.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.05
+Agent8 reward is 64.1
+US agents hit = 9.4
+THEM agents hit = 26.1
+Training time per epochs: 2.91 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 368.9
+Av. agent reward = 40.99
+Num laser fired = 414.0
+Total US Hit (friendly fire) = 47.4
+Total THEM Hit = 169.2
+friendly fire (%) = 0.219
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 85.6
+Tribe Saxons has total reward of 97.4
+Tribe Franks has total reward of 185.9
+Dominating Tribe: Franks
+Team dominance: 2.03x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 12.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 19.4
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.07
+Agent2 reward is 53.5
+US agents hit = 9.6
+THEM agents hit = 48.9
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 39.3
+US agents hit = 1.5
+THEM agents hit = 8.1
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 26.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.04
+Agent5 reward is 32.1
+US agents hit = 4.9
+THEM agents hit = 17.5
+Agent6 of Franks aggressiveness is 0.07
+Agent6 reward is 49.2
+US agents hit = 6.1
+THEM agents hit = 39.7
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 23.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.22
+Agent8 reward is 113.6
+US agents hit = 25.4
+THEM agents hit = 54.9
+Training time per epochs: 2.94 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 376.6
+Av. agent reward = 41.84
+Num laser fired = 612.2
+Total US Hit (friendly fire) = 47.7
+Total THEM Hit = 167.2
+friendly fire (%) = 0.222
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 152.7
+Tribe Saxons has total reward of 88.0
+Tribe Franks has total reward of 135.9
+Dominating Tribe: Vikings
+Team dominance: 1.36x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 8.4
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 20.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.22
+Agent2 reward is 123.5
+US agents hit = 25.5
+THEM agents hit = 82.5
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 37.2
+US agents hit = 0.6
+THEM agents hit = 1.9
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 16.5
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.02
+Agent5 reward is 34.4
+US agents hit = 2.6
+THEM agents hit = 15.0
+Agent6 of Franks aggressiveness is 0.04
+Agent6 reward is 46.2
+US agents hit = 3.4
+THEM agents hit = 29.6
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 24.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.33
+Agent8 reward is 65.0
+US agents hit = 15.6
+THEM agents hit = 38.2
+Training time per epochs: 2.95 sec
+###### Dir = MA_models/3T-9L/cooperative/cf0.1/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 363.3
+Av. agent reward = 40.36
+Num laser fired = 842.1
+Total US Hit (friendly fire) = 26.3
+Total THEM Hit = 172.2
+friendly fire (%) = 0.132
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 34.7
+Tribe Saxons has total reward of 138.6
+Tribe Franks has total reward of 190.0
+Dominating Tribe: Franks
+Team dominance: 2.19x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.4
+US agents hit = 0.6
+THEM agents hit = 1.8
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 23.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 10.7
+US agents hit = 0.3
+THEM agents hit = 2.4
+Agent3 of Saxons aggressiveness is 0.02
+Agent3 reward is 10.0
+US agents hit = 1.9
+THEM agents hit = 6.3
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 7.9
+US agents hit = 0.7
+THEM agents hit = 1.9
+Agent5 of Saxons aggressiveness is 0.13
+Agent5 reward is 120.7
+US agents hit = 9.0
+THEM agents hit = 38.9
+Agent6 of Franks aggressiveness is 0.66
+Agent6 reward is 0.1
+US agents hit = 6.4
+THEM agents hit = 110.6
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 94.5
+US agents hit = 0.8
+THEM agents hit = 1.4
+Agent8 of Franks aggressiveness is 0.02
+Agent8 reward is 95.4
+US agents hit = 6.5
+THEM agents hit = 8.9
+Training time per epochs: 2.96 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 377.1
+Av. agent reward = 41.90
+Num laser fired = 1056.3
+Total US Hit (friendly fire) = 26.5
+Total THEM Hit = 220.2
+friendly fire (%) = 0.108
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 25.5
+Tribe Saxons has total reward of 18.4
+Tribe Franks has total reward of 333.2
+Dominating Tribe: Franks
+Team dominance: 15.17x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 5.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 11.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 8.8
+US agents hit = 0.2
+THEM agents hit = 4.5
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 3.5
+US agents hit = 0.2
+THEM agents hit = 0.5
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 3.2
+US agents hit = 0.1
+THEM agents hit = 1.0
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 11.7
+US agents hit = 1.2
+THEM agents hit = 7.2
+Agent6 of Franks aggressiveness is 0.89
+Agent6 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 197.4
+Agent7 of Franks aggressiveness is 0.09
+Agent7 reward is 186.5
+US agents hit = 14.4
+THEM agents hit = 5.8
+Agent8 of Franks aggressiveness is 0.05
+Agent8 reward is 146.7
+US agents hit = 10.4
+THEM agents hit = 3.8
+Training time per epochs: 2.95 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 408.3
+Av. agent reward = 45.36
+Num laser fired = 1084.7
+Total US Hit (friendly fire) = 28.9
+Total THEM Hit = 227.5
+friendly fire (%) = 0.113
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 14.8
+Tribe Saxons has total reward of 20.6
+Tribe Franks has total reward of 372.9
+Dominating Tribe: Franks
+Team dominance: 21.07x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 4.7
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 8.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 2.1
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 4.6
+US agents hit = 0.1
+THEM agents hit = 0.3
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 7.6
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 8.4
+US agents hit = 0.8
+THEM agents hit = 2.9
+Agent6 of Franks aggressiveness is 0.92
+Agent6 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 207.7
+Agent7 of Franks aggressiveness is 0.11
+Agent7 reward is 207.6
+US agents hit = 14.3
+THEM agents hit = 5.6
+Agent8 of Franks aggressiveness is 0.05
+Agent8 reward is 165.3
+US agents hit = 13.6
+THEM agents hit = 10.5
+Training time per epochs: 2.93 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 406.1
+Av. agent reward = 45.13
+Num laser fired = 1118.5
+Total US Hit (friendly fire) = 29.1
+Total THEM Hit = 243.9
+friendly fire (%) = 0.106
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 1.7
+Tribe Saxons has total reward of 1.9
+Tribe Franks has total reward of 402.6
+Dominating Tribe: Franks
+Team dominance: 225.74x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.9
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.1
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.1
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 1.7
+US agents hit = 0.1
+THEM agents hit = 0.8
+Agent6 of Franks aggressiveness is 0.97
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 235.9
+Agent7 of Franks aggressiveness is 0.07
+Agent7 reward is 216.5
+US agents hit = 13.3
+THEM agents hit = 0.5
+Agent8 of Franks aggressiveness is 0.08
+Agent8 reward is 186.1
+US agents hit = 15.5
+THEM agents hit = 6.3
+Training time per epochs: 2.92 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 390.8
+Av. agent reward = 43.42
+Num laser fired = 802.8
+Total US Hit (friendly fire) = 43.2
+Total THEM Hit = 158.0
+friendly fire (%) = 0.215
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 66.5
+Tribe Saxons has total reward of 31.0
+Tribe Franks has total reward of 293.3
+Dominating Tribe: Franks
+Team dominance: 6.02x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 26.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 24.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 15.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 7.3
+US agents hit = 0.1
+THEM agents hit = 0.3
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.11
+Agent5 reward is 23.6
+US agents hit = 5.0
+THEM agents hit = 29.9
+Agent6 of Franks aggressiveness is 0.51
+Agent6 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 86.6
+Agent7 of Franks aggressiveness is 0.10
+Agent7 reward is 160.7
+US agents hit = 10.6
+THEM agents hit = 19.6
+Agent8 of Franks aggressiveness is 0.08
+Agent8 reward is 132.7
+US agents hit = 27.4
+THEM agents hit = 21.6
+Training time per epochs: 2.95 sec
+###### Dir = MA_models/3T-9L/cooperative/cf1.0/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 287.9
+Av. agent reward = 31.99
+Num laser fired = 425.3
+Total US Hit (friendly fire) = 39.7
+Total THEM Hit = 144.7
+friendly fire (%) = 0.215
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 50.6
+Tribe Saxons has total reward of 76.3
+Tribe Franks has total reward of 161.0
+Dominating Tribe: Franks
+Team dominance: 2.54x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.03
+Agent0 reward is 0.0
+US agents hit = 1.9
+THEM agents hit = 7.0
+Agent1 of Vikings aggressiveness is 0.06
+Agent1 reward is 46.2
+US agents hit = 5.3
+THEM agents hit = 36.7
+Agent2 of Vikings aggressiveness is 0.02
+Agent2 reward is 4.4
+US agents hit = 1.8
+THEM agents hit = 3.8
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 2.0
+US agents hit = 0.2
+THEM agents hit = 0.7
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.8
+US agents hit = 0.3
+THEM agents hit = 1.7
+Agent5 of Saxons aggressiveness is 0.08
+Agent5 reward is 73.6
+US agents hit = 4.6
+THEM agents hit = 16.5
+Agent6 of Franks aggressiveness is 0.04
+Agent6 reward is 4.6
+US agents hit = 3.3
+THEM agents hit = 13.4
+Agent7 of Franks aggressiveness is 0.14
+Agent7 reward is 26.6
+US agents hit = 14.8
+THEM agents hit = 38.8
+Agent8 of Franks aggressiveness is 0.06
+Agent8 reward is 129.9
+US agents hit = 7.6
+THEM agents hit = 26.2
+Training time per epochs: 2.97 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 322.7
+Av. agent reward = 35.86
+Num laser fired = 352.4
+Total US Hit (friendly fire) = 34.3
+Total THEM Hit = 152.1
+friendly fire (%) = 0.184
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 104.7
+Tribe Saxons has total reward of 81.9
+Tribe Franks has total reward of 136.2
+Dominating Tribe: Franks
+Team dominance: 1.46x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.3
+Agent1 of Vikings aggressiveness is 0.09
+Agent1 reward is 58.2
+US agents hit = 10.7
+THEM agents hit = 42.6
+Agent2 of Vikings aggressiveness is 0.09
+Agent2 reward is 46.4
+US agents hit = 6.6
+THEM agents hit = 41.7
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 2.3
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.07
+Agent5 reward is 79.6
+US agents hit = 3.5
+THEM agents hit = 20.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 7.1
+US agents hit = 0.4
+THEM agents hit = 0.6
+Agent7 of Franks aggressiveness is 0.09
+Agent7 reward is 59.4
+US agents hit = 10.8
+THEM agents hit = 37.0
+Agent8 of Franks aggressiveness is 0.01
+Agent8 reward is 69.7
+US agents hit = 2.1
+THEM agents hit = 9.8
+Training time per epochs: 2.96 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 304.7
+Av. agent reward = 33.86
+Num laser fired = 396.1
+Total US Hit (friendly fire) = 30.7
+Total THEM Hit = 149.9
+friendly fire (%) = 0.170
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 158.1
+Tribe Saxons has total reward of 32.9
+Tribe Franks has total reward of 113.7
+Dominating Tribe: Vikings
+Team dominance: 2.16x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.09
+Agent1 reward is 56.9
+US agents hit = 11.3
+THEM agents hit = 38.0
+Agent2 of Vikings aggressiveness is 0.14
+Agent2 reward is 101.1
+US agents hit = 10.3
+THEM agents hit = 69.9
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 5.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.2
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 27.1
+US agents hit = 0.5
+THEM agents hit = 3.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 10.4
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent7 of Franks aggressiveness is 0.03
+Agent7 reward is 21.0
+US agents hit = 1.9
+THEM agents hit = 7.1
+Agent8 of Franks aggressiveness is 0.13
+Agent8 reward is 82.4
+US agents hit = 6.7
+THEM agents hit = 31.7
+Training time per epochs: 3.02 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 316.3
+Av. agent reward = 35.15
+Num laser fired = 398.4
+Total US Hit (friendly fire) = 24.4
+Total THEM Hit = 134.0
+friendly fire (%) = 0.154
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 167.6
+Tribe Saxons has total reward of 27.6
+Tribe Franks has total reward of 121.2
+Dominating Tribe: Vikings
+Team dominance: 2.25x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.06
+Agent1 reward is 58.8
+US agents hit = 8.5
+THEM agents hit = 32.1
+Agent2 of Vikings aggressiveness is 0.22
+Agent2 reward is 108.8
+US agents hit = 8.2
+THEM agents hit = 79.4
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 2.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.05
+Agent5 reward is 25.4
+US agents hit = 1.2
+THEM agents hit = 8.7
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 17.5
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent7 of Franks aggressiveness is 0.04
+Agent7 reward is 42.2
+US agents hit = 3.7
+THEM agents hit = 7.4
+Agent8 of Franks aggressiveness is 0.02
+Agent8 reward is 61.5
+US agents hit = 2.8
+THEM agents hit = 6.4
+Training time per epochs: 2.97 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 359.1
+Av. agent reward = 39.90
+Num laser fired = 354.0
+Total US Hit (friendly fire) = 26.4
+Total THEM Hit = 123.0
+friendly fire (%) = 0.177
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 136.9
+Tribe Saxons has total reward of 79.5
+Tribe Franks has total reward of 142.7
+Dominating Tribe: Franks
+Team dominance: 1.32x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.10
+Agent1 reward is 55.2
+US agents hit = 8.3
+THEM agents hit = 44.5
+Agent2 of Vikings aggressiveness is 0.11
+Agent2 reward is 81.7
+US agents hit = 8.2
+THEM agents hit = 37.7
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 3.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.08
+Agent5 reward is 75.7
+US agents hit = 2.8
+THEM agents hit = 25.1
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 28.2
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.06
+Agent7 reward is 52.7
+US agents hit = 5.1
+THEM agents hit = 10.3
+Agent8 of Franks aggressiveness is 0.01
+Agent8 reward is 61.9
+US agents hit = 2.1
+THEM agents hit = 5.3
+Training time per epochs: 2.98 sec
+###### Dir = MA_models/3T-9L/cooperative/cf5.0/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 353.5
+Av. agent reward = 39.27
+Num laser fired = 186.9
+Total US Hit (friendly fire) = 30.7
+Total THEM Hit = 124.1
+friendly fire (%) = 0.198
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 115.2
+Tribe Saxons has total reward of 131.5
+Tribe Franks has total reward of 106.7
+Dominating Tribe: Saxons
+Team dominance: 1.19x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.10
+Agent0 reward is 109.7
+US agents hit = 12.4
+THEM agents hit = 69.6
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 3.2
+US agents hit = 0.6
+THEM agents hit = 1.0
+Agent2 of Vikings aggressiveness is 0.01
+Agent2 reward is 2.2
+US agents hit = 1.8
+THEM agents hit = 2.2
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 42.1
+US agents hit = 0.8
+THEM agents hit = 2.5
+Agent4 of Saxons aggressiveness is 0.05
+Agent4 reward is 72.5
+US agents hit = 13.2
+THEM agents hit = 42.5
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 17.0
+US agents hit = 0.1
+THEM agents hit = 0.4
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 18.7
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent7 of Franks aggressiveness is 0.01
+Agent7 reward is 18.6
+US agents hit = 1.1
+THEM agents hit = 1.9
+Agent8 of Franks aggressiveness is 0.01
+Agent8 reward is 69.4
+US agents hit = 0.6
+THEM agents hit = 3.8
+Training time per epochs: 2.99 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 399.7
+Av. agent reward = 44.41
+Num laser fired = 205.1
+Total US Hit (friendly fire) = 33.3
+Total THEM Hit = 119.9
+friendly fire (%) = 0.217
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 108.1
+Tribe Saxons has total reward of 165.7
+Tribe Franks has total reward of 125.9
+Dominating Tribe: Saxons
+Team dominance: 1.42x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.07
+Agent0 reward is 105.2
+US agents hit = 12.2
+THEM agents hit = 51.2
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 1.8
+US agents hit = 0.6
+THEM agents hit = 0.9
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 1.1
+US agents hit = 0.9
+THEM agents hit = 0.6
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 45.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.07
+Agent4 reward is 104.5
+US agents hit = 15.6
+THEM agents hit = 45.0
+Agent5 of Saxons aggressiveness is 0.03
+Agent5 reward is 16.2
+US agents hit = 0.1
+THEM agents hit = 0.4
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 8.9
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent7 of Franks aggressiveness is 0.01
+Agent7 reward is 22.6
+US agents hit = 0.6
+THEM agents hit = 1.2
+Agent8 of Franks aggressiveness is 0.03
+Agent8 reward is 94.3
+US agents hit = 3.2
+THEM agents hit = 20.3
+Training time per epochs: 2.99 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 417.8
+Av. agent reward = 46.43
+Num laser fired = 187.8
+Total US Hit (friendly fire) = 24.1
+Total THEM Hit = 98.5
+friendly fire (%) = 0.197
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 75.1
+Tribe Saxons has total reward of 211.2
+Tribe Franks has total reward of 131.5
+Dominating Tribe: Saxons
+Team dominance: 2.04x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.02
+Agent0 reward is 39.6
+US agents hit = 4.6
+THEM agents hit = 17.1
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 19.4
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent2 of Vikings aggressiveness is 0.03
+Agent2 reward is 16.2
+US agents hit = 4.7
+THEM agents hit = 11.2
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 37.6
+US agents hit = 0.1
+THEM agents hit = 0.4
+Agent4 of Saxons aggressiveness is 0.07
+Agent4 reward is 165.0
+US agents hit = 11.6
+THEM agents hit = 40.5
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 8.6
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.01
+Agent7 reward is 0.5
+US agents hit = 0.2
+THEM agents hit = 0.9
+Agent8 of Franks aggressiveness is 0.05
+Agent8 reward is 131.0
+US agents hit = 3.0
+THEM agents hit = 28.0
+Training time per epochs: 3.07 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 442.0
+Av. agent reward = 49.11
+Num laser fired = 195.2
+Total US Hit (friendly fire) = 28.6
+Total THEM Hit = 96.0
+friendly fire (%) = 0.230
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 68.2
+Tribe Saxons has total reward of 207.1
+Tribe Franks has total reward of 166.6
+Dominating Tribe: Saxons
+Team dominance: 1.76x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 27.5
+US agents hit = 3.3
+THEM agents hit = 11.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 25.2
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.01
+Agent2 reward is 15.5
+US agents hit = 2.8
+THEM agents hit = 5.2
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 45.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.09
+Agent4 reward is 157.2
+US agents hit = 14.0
+THEM agents hit = 38.1
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 4.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 23.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.09
+Agent8 reward is 142.8
+US agents hit = 8.5
+THEM agents hit = 41.6
+Training time per epochs: 3.09 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 468.8
+Av. agent reward = 52.09
+Num laser fired = 154.1
+Total US Hit (friendly fire) = 21.0
+Total THEM Hit = 71.6
+friendly fire (%) = 0.227
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 70.9
+Tribe Saxons has total reward of 225.7
+Tribe Franks has total reward of 172.2
+Dominating Tribe: Saxons
+Team dominance: 1.86x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.02
+Agent0 reward is 31.6
+US agents hit = 6.0
+THEM agents hit = 15.8
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 30.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.03
+Agent2 reward is 8.7
+US agents hit = 2.7
+THEM agents hit = 6.7
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.06
+Agent4 reward is 222.4
+US agents hit = 8.3
+THEM agents hit = 32.7
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 3.3
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 16.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.03
+Agent8 reward is 155.6
+US agents hit = 4.1
+THEM agents hit = 16.4
+Training time per epochs: 3.06 sec
+###### Dir = MA_models/3T-9L/cooperative/cf10/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 333.9
+Av. agent reward = 37.10
+Num laser fired = 245.5
+Total US Hit (friendly fire) = 28.8
+Total THEM Hit = 130.7
+friendly fire (%) = 0.180
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 106.6
+Tribe Saxons has total reward of 144.5
+Tribe Franks has total reward of 82.8
+Dominating Tribe: Saxons
+Team dominance: 1.53x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 0.0
+US agents hit = 1.3
+THEM agents hit = 1.7
+Agent1 of Vikings aggressiveness is 0.02
+Agent1 reward is 2.4
+US agents hit = 7.1
+THEM agents hit = 10.7
+Agent2 of Vikings aggressiveness is 0.05
+Agent2 reward is 104.2
+US agents hit = 3.9
+THEM agents hit = 43.8
+Agent3 of Saxons aggressiveness is 0.09
+Agent3 reward is 143.0
+US agents hit = 5.4
+THEM agents hit = 39.6
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 0.1
+US agents hit = 1.2
+THEM agents hit = 2.8
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 1.5
+US agents hit = 0.6
+THEM agents hit = 1.9
+Agent6 of Franks aggressiveness is 0.01
+Agent6 reward is 2.0
+US agents hit = 2.4
+THEM agents hit = 8.3
+Agent7 of Franks aggressiveness is 0.04
+Agent7 reward is 2.4
+US agents hit = 6.4
+THEM agents hit = 21.4
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 78.4
+US agents hit = 0.4
+THEM agents hit = 0.6
+Training time per epochs: 2.98 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 453.5
+Av. agent reward = 50.39
+Num laser fired = 204.3
+Total US Hit (friendly fire) = 17.8
+Total THEM Hit = 113.6
+friendly fire (%) = 0.135
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 152.0
+Tribe Saxons has total reward of 224.7
+Tribe Franks has total reward of 76.9
+Dominating Tribe: Saxons
+Team dominance: 1.96x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.01
+Agent1 reward is 2.7
+US agents hit = 2.1
+THEM agents hit = 2.2
+Agent2 of Vikings aggressiveness is 0.11
+Agent2 reward is 149.3
+US agents hit = 4.8
+THEM agents hit = 59.1
+Agent3 of Saxons aggressiveness is 0.05
+Agent3 reward is 223.8
+US agents hit = 4.5
+THEM agents hit = 27.8
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 0.0
+US agents hit = 0.5
+THEM agents hit = 1.8
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.9
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent6 of Franks aggressiveness is 0.01
+Agent6 reward is 1.2
+US agents hit = 1.9
+THEM agents hit = 11.4
+Agent7 of Franks aggressiveness is 0.02
+Agent7 reward is 0.7
+US agents hit = 3.8
+THEM agents hit = 10.7
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 75.0
+US agents hit = 0.1
+THEM agents hit = 0.2
+Training time per epochs: 2.99 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 394.8
+Av. agent reward = 43.87
+Num laser fired = 323.0
+Total US Hit (friendly fire) = 21.1
+Total THEM Hit = 116.0
+friendly fire (%) = 0.154
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 122.5
+Tribe Saxons has total reward of 149.8
+Tribe Franks has total reward of 122.6
+Dominating Tribe: Saxons
+Team dominance: 1.22x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 8.3
+US agents hit = 0.4
+THEM agents hit = 1.2
+Agent2 of Vikings aggressiveness is 0.16
+Agent2 reward is 114.2
+US agents hit = 7.5
+THEM agents hit = 56.5
+Agent3 of Saxons aggressiveness is 0.05
+Agent3 reward is 149.6
+US agents hit = 5.4
+THEM agents hit = 23.4
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.2
+US agents hit = 0.3
+THEM agents hit = 0.3
+Agent6 of Franks aggressiveness is 0.03
+Agent6 reward is 1.7
+US agents hit = 2.6
+THEM agents hit = 9.6
+Agent7 of Franks aggressiveness is 0.02
+Agent7 reward is 0.8
+US agents hit = 3.1
+THEM agents hit = 11.1
+Agent8 of Franks aggressiveness is 0.07
+Agent8 reward is 120.1
+US agents hit = 1.8
+THEM agents hit = 13.8
+Training time per epochs: 2.97 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 378.3
+Av. agent reward = 42.04
+Num laser fired = 357.5
+Total US Hit (friendly fire) = 15.8
+Total THEM Hit = 126.4
+friendly fire (%) = 0.111
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 86.6
+Tribe Saxons has total reward of 115.9
+Tribe Franks has total reward of 175.8
+Dominating Tribe: Franks
+Team dominance: 1.74x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.4
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.06
+Agent2 reward is 86.2
+US agents hit = 9.4
+THEM agents hit = 60.9
+Agent3 of Saxons aggressiveness is 0.07
+Agent3 reward is 115.9
+US agents hit = 3.0
+THEM agents hit = 20.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.1
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.16
+Agent6 reward is 0.5
+US agents hit = 1.1
+THEM agents hit = 29.3
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.7
+THEM agents hit = 1.8
+Agent8 of Franks aggressiveness is 0.06
+Agent8 reward is 175.3
+US agents hit = 1.5
+THEM agents hit = 14.3
+Training time per epochs: 2.94 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 459.6
+Av. agent reward = 51.07
+Num laser fired = 988.8
+Total US Hit (friendly fire) = 0.1
+Total THEM Hit = 202.3
+friendly fire (%) = 0.000
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 10.9
+Tribe Saxons has total reward of 18.9
+Tribe Franks has total reward of 429.8
+Dominating Tribe: Franks
+Team dominance: 28.85x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 10.9
+US agents hit = 0.0
+THEM agents hit = 6.7
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 18.9
+US agents hit = 0.0
+THEM agents hit = 1.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.96
+Agent6 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 193.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.02
+Agent8 reward is 429.8
+US agents hit = 0.0
+THEM agents hit = 1.6
+Training time per epochs: 2.97 sec
+###### Dir = MA_models/3T-9L/cooperative/cf15/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 313.9
+Av. agent reward = 34.88
+Num laser fired = 378.0
+Total US Hit (friendly fire) = 42.1
+Total THEM Hit = 124.8
+friendly fire (%) = 0.252
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 5.0
+Tribe Saxons has total reward of 82.8
+Tribe Franks has total reward of 226.1
+Dominating Tribe: Franks
+Team dominance: 5.15x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.04
+Agent0 reward is 0.3
+US agents hit = 8.3
+THEM agents hit = 19.5
+Agent1 of Vikings aggressiveness is 0.09
+Agent1 reward is 4.6
+US agents hit = 16.4
+THEM agents hit = 42.6
+Agent2 of Vikings aggressiveness is 0.04
+Agent2 reward is 0.2
+US agents hit = 5.8
+THEM agents hit = 7.5
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.2
+THEM agents hit = 0.6
+Agent4 of Saxons aggressiveness is 0.03
+Agent4 reward is 82.8
+US agents hit = 1.9
+THEM agents hit = 8.9
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent6 of Franks aggressiveness is 0.02
+Agent6 reward is 2.3
+US agents hit = 1.5
+THEM agents hit = 9.3
+Agent7 of Franks aggressiveness is 0.14
+Agent7 reward is 223.0
+US agents hit = 6.7
+THEM agents hit = 32.4
+Agent8 of Franks aggressiveness is 0.02
+Agent8 reward is 0.7
+US agents hit = 1.4
+THEM agents hit = 3.8
+Training time per epochs: 3.04 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 325.9
+Av. agent reward = 36.21
+Num laser fired = 334.9
+Total US Hit (friendly fire) = 42.3
+Total THEM Hit = 159.4
+friendly fire (%) = 0.210
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 56.9
+Tribe Saxons has total reward of 83.3
+Tribe Franks has total reward of 185.7
+Dominating Tribe: Franks
+Team dominance: 2.65x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 1.9
+US agents hit = 0.7
+THEM agents hit = 1.6
+Agent1 of Vikings aggressiveness is 0.14
+Agent1 reward is 55.0
+US agents hit = 20.9
+THEM agents hit = 70.8
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.04
+Agent4 reward is 83.3
+US agents hit = 2.1
+THEM agents hit = 14.2
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.1
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 1.8
+US agents hit = 0.0
+THEM agents hit = 0.3
+Agent7 of Franks aggressiveness is 0.13
+Agent7 reward is 181.7
+US agents hit = 17.5
+THEM agents hit = 68.5
+Agent8 of Franks aggressiveness is 0.01
+Agent8 reward is 2.2
+US agents hit = 1.0
+THEM agents hit = 3.9
+Training time per epochs: 3.01 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 297.1
+Av. agent reward = 33.01
+Num laser fired = 385.5
+Total US Hit (friendly fire) = 44.6
+Total THEM Hit = 167.3
+friendly fire (%) = 0.210
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 94.1
+Tribe Saxons has total reward of 79.6
+Tribe Franks has total reward of 123.4
+Dominating Tribe: Franks
+Team dominance: 1.42x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 5.4
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent1 of Vikings aggressiveness is 0.18
+Agent1 reward is 88.7
+US agents hit = 19.7
+THEM agents hit = 71.2
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.10
+Agent4 reward is 79.6
+US agents hit = 1.3
+THEM agents hit = 16.6
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.10
+Agent7 reward is 122.8
+US agents hit = 22.5
+THEM agents hit = 76.1
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 0.6
+US agents hit = 1.0
+THEM agents hit = 3.1
+Training time per epochs: 2.92 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 313.6
+Av. agent reward = 34.84
+Num laser fired = 329.7
+Total US Hit (friendly fire) = 41.7
+Total THEM Hit = 153.1
+friendly fire (%) = 0.214
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 118.5
+Tribe Saxons has total reward of 61.8
+Tribe Franks has total reward of 133.3
+Dominating Tribe: Franks
+Team dominance: 1.48x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 6.0
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent1 of Vikings aggressiveness is 0.22
+Agent1 reward is 112.5
+US agents hit = 16.5
+THEM agents hit = 65.7
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.02
+Agent4 reward is 61.8
+US agents hit = 6.5
+THEM agents hit = 13.9
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.08
+Agent7 reward is 129.4
+US agents hit = 18.3
+THEM agents hit = 72.6
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 3.9
+US agents hit = 0.2
+THEM agents hit = 0.6
+Training time per epochs: 2.97 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 344.0
+Av. agent reward = 38.23
+Num laser fired = 322.8
+Total US Hit (friendly fire) = 43.9
+Total THEM Hit = 166.3
+friendly fire (%) = 0.209
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 85.1
+Tribe Saxons has total reward of 33.8
+Tribe Franks has total reward of 225.1
+Dominating Tribe: Franks
+Team dominance: 3.79x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 1.0
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent1 of Vikings aggressiveness is 0.15
+Agent1 reward is 84.1
+US agents hit = 20.6
+THEM agents hit = 78.2
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 33.8
+US agents hit = 0.1
+THEM agents hit = 2.3
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.16
+Agent7 reward is 217.5
+US agents hit = 23.0
+THEM agents hit = 85.5
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 7.6
+US agents hit = 0.1
+THEM agents hit = 0.0
+Training time per epochs: 2.93 sec
+###### Dir = MA_models/3T-9L/cooperative/cf20/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 370.1
+Av. agent reward = 41.12
+Num laser fired = 1006.1
+Total US Hit (friendly fire) = 36.0
+Total THEM Hit = 224.9
+friendly fire (%) = 0.138
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 6.3
+Tribe Saxons has total reward of 22.8
+Tribe Franks has total reward of 340.9
+Dominating Tribe: Franks
+Team dominance: 23.41x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 0.4
+US agents hit = 0.4
+THEM agents hit = 1.2
+Agent1 of Vikings aggressiveness is 0.01
+Agent1 reward is 0.0
+US agents hit = 0.3
+THEM agents hit = 0.4
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 5.9
+US agents hit = 0.0
+THEM agents hit = 0.9
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 0.3
+US agents hit = 0.4
+THEM agents hit = 1.9
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.8
+US agents hit = 0.0
+THEM agents hit = 0.3
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 21.7
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent6 of Franks aggressiveness is 0.01
+Agent6 reward is 1.5
+US agents hit = 0.9
+THEM agents hit = 0.9
+Agent7 of Franks aggressiveness is 0.96
+Agent7 reward is 0.0
+US agents hit = 34.0
+THEM agents hit = 219.0
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 339.4
+US agents hit = 0.1
+THEM agents hit = 0.2
+Training time per epochs: 2.92 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 271.6
+Av. agent reward = 30.18
+Num laser fired = 813.8
+Total US Hit (friendly fire) = 36.6
+Total THEM Hit = 154.3
+friendly fire (%) = 0.192
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 28.5
+Tribe Saxons has total reward of 132.5
+Tribe Franks has total reward of 110.6
+Dominating Tribe: Saxons
+Team dominance: 1.91x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.01
+Agent0 reward is 0.3
+US agents hit = 1.4
+THEM agents hit = 3.2
+Agent1 of Vikings aggressiveness is 0.06
+Agent1 reward is 0.0
+US agents hit = 8.0
+THEM agents hit = 27.8
+Agent2 of Vikings aggressiveness is 0.01
+Agent2 reward is 28.2
+US agents hit = 0.3
+THEM agents hit = 4.2
+Agent3 of Saxons aggressiveness is 0.31
+Agent3 reward is 0.3
+US agents hit = 0.9
+THEM agents hit = 32.0
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 10.0
+US agents hit = 0.8
+THEM agents hit = 1.7
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 122.2
+US agents hit = 0.1
+THEM agents hit = 0.1
+Agent6 of Franks aggressiveness is 0.01
+Agent6 reward is 1.0
+US agents hit = 0.1
+THEM agents hit = 0.6
+Agent7 of Franks aggressiveness is 0.42
+Agent7 reward is 0.1
+US agents hit = 25.0
+THEM agents hit = 84.6
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 109.5
+US agents hit = 0.0
+THEM agents hit = 0.0
+Training time per epochs: 2.96 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 393.9
+Av. agent reward = 43.76
+Num laser fired = 155.5
+Total US Hit (friendly fire) = 9.9
+Total THEM Hit = 78.3
+friendly fire (%) = 0.113
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 78.6
+Tribe Saxons has total reward of 188.0
+Tribe Franks has total reward of 127.2
+Dominating Tribe: Saxons
+Team dominance: 1.83x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.7
+Agent2 of Vikings aggressiveness is 0.05
+Agent2 reward is 78.6
+US agents hit = 0.1
+THEM agents hit = 33.8
+Agent3 of Saxons aggressiveness is 0.07
+Agent3 reward is 5.5
+US agents hit = 3.1
+THEM agents hit = 17.2
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 22.5
+US agents hit = 0.3
+THEM agents hit = 1.2
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 160.0
+US agents hit = 1.1
+THEM agents hit = 3.2
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 1.0
+US agents hit = 0.1
+THEM agents hit = 0.8
+Agent7 of Franks aggressiveness is 0.03
+Agent7 reward is 0.1
+US agents hit = 5.1
+THEM agents hit = 21.4
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 126.1
+US agents hit = 0.0
+THEM agents hit = 0.1
+Training time per epochs: 3.01 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 467.2
+Av. agent reward = 51.91
+Num laser fired = 579.6
+Total US Hit (friendly fire) = 6.2
+Total THEM Hit = 83.5
+friendly fire (%) = 0.069
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 50.9
+Tribe Saxons has total reward of 248.4
+Tribe Franks has total reward of 167.8
+Dominating Tribe: Saxons
+Team dominance: 2.27x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.5
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.8
+Agent2 of Vikings aggressiveness is 0.16
+Agent2 reward is 50.4
+US agents hit = 1.1
+THEM agents hit = 24.2
+Agent3 of Saxons aggressiveness is 0.41
+Agent3 reward is 0.0
+US agents hit = 3.0
+THEM agents hit = 54.2
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 31.3
+US agents hit = 1.0
+THEM agents hit = 3.2
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 217.1
+US agents hit = 1.0
+THEM agents hit = 1.1
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 167.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Training time per epochs: 3.01 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 585.4
+Av. agent reward = 65.05
+Num laser fired = 19.7
+Total US Hit (friendly fire) = 2.4
+Total THEM Hit = 11.4
+friendly fire (%) = 0.174
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 22.3
+Tribe Saxons has total reward of 426.5
+Tribe Franks has total reward of 136.6
+Dominating Tribe: Saxons
+Team dominance: 5.37x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.8
+US agents hit = 0.2
+THEM agents hit = 0.1
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.2
+THEM agents hit = 0.3
+Agent2 of Vikings aggressiveness is 0.01
+Agent2 reward is 21.6
+US agents hit = 0.3
+THEM agents hit = 4.5
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 1.4
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 6.8
+US agents hit = 0.1
+THEM agents hit = 0.2
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 419.6
+US agents hit = 1.7
+THEM agents hit = 4.9
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 136.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Training time per epochs: 3.06 sec
+###### Dir = MA_models/3T-9L/cooperative/cf25/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 250.2
+Av. agent reward = 27.80
+Num laser fired = 500.6
+Total US Hit (friendly fire) = 39.1
+Total THEM Hit = 126.6
+friendly fire (%) = 0.236
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 96.9
+Tribe Saxons has total reward of 44.0
+Tribe Franks has total reward of 109.3
+Dominating Tribe: Franks
+Team dominance: 1.55x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.31
+Agent0 reward is 80.4
+US agents hit = 21.3
+THEM agents hit = 60.8
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.5
+US agents hit = 0.3
+THEM agents hit = 1.2
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 16.0
+US agents hit = 0.1
+THEM agents hit = 0.5
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 0.0
+US agents hit = 1.4
+THEM agents hit = 6.1
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 0.1
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 43.9
+US agents hit = 1.4
+THEM agents hit = 6.1
+Agent6 of Franks aggressiveness is 0.07
+Agent6 reward is 0.4
+US agents hit = 8.1
+THEM agents hit = 24.6
+Agent7 of Franks aggressiveness is 0.01
+Agent7 reward is 0.0
+US agents hit = 1.0
+THEM agents hit = 4.7
+Agent8 of Franks aggressiveness is 0.08
+Agent8 reward is 108.9
+US agents hit = 5.5
+THEM agents hit = 22.5
+Training time per epochs: 2.97 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 400.4
+Av. agent reward = 44.49
+Num laser fired = 424.6
+Total US Hit (friendly fire) = 33.3
+Total THEM Hit = 137.6
+friendly fire (%) = 0.195
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 111.3
+Tribe Saxons has total reward of 37.0
+Tribe Franks has total reward of 252.2
+Dominating Tribe: Franks
+Team dominance: 3.40x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.11
+Agent0 reward is 92.0
+US agents hit = 17.0
+THEM agents hit = 53.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 19.2
+US agents hit = 0.2
+THEM agents hit = 0.2
+Agent3 of Saxons aggressiveness is 0.02
+Agent3 reward is 0.1
+US agents hit = 1.0
+THEM agents hit = 7.6
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 7.3
+US agents hit = 0.5
+THEM agents hit = 0.6
+Agent5 of Saxons aggressiveness is 0.02
+Agent5 reward is 29.5
+US agents hit = 4.3
+THEM agents hit = 12.4
+Agent6 of Franks aggressiveness is 0.10
+Agent6 reward is 1.0
+US agents hit = 5.6
+THEM agents hit = 18.2
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.6
+THEM agents hit = 2.2
+Agent8 of Franks aggressiveness is 0.16
+Agent8 reward is 251.1
+US agents hit = 4.2
+THEM agents hit = 43.3
+Training time per epochs: 2.99 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 475.8
+Av. agent reward = 52.87
+Num laser fired = 259.1
+Total US Hit (friendly fire) = 27.5
+Total THEM Hit = 125.2
+friendly fire (%) = 0.180
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 105.9
+Tribe Saxons has total reward of 60.0
+Tribe Franks has total reward of 309.9
+Dominating Tribe: Franks
+Team dominance: 3.74x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.08
+Agent0 reward is 91.3
+US agents hit = 17.8
+THEM agents hit = 62.3
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.1
+US agents hit = 0.0
+THEM agents hit = 0.2
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 14.6
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 4.5
+US agents hit = 0.8
+THEM agents hit = 3.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 16.8
+US agents hit = 0.2
+THEM agents hit = 0.5
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 38.7
+US agents hit = 0.3
+THEM agents hit = 1.1
+Agent6 of Franks aggressiveness is 0.06
+Agent6 reward is 0.3
+US agents hit = 5.7
+THEM agents hit = 21.5
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.10
+Agent8 reward is 309.6
+US agents hit = 2.7
+THEM agents hit = 36.6
+Training time per epochs: 2.98 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 526.8
+Av. agent reward = 58.54
+Num laser fired = 925.6
+Total US Hit (friendly fire) = 12.4
+Total THEM Hit = 195.6
+friendly fire (%) = 0.060
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 46.2
+Tribe Saxons has total reward of 23.5
+Tribe Franks has total reward of 457.2
+Dominating Tribe: Franks
+Team dominance: 13.12x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.07
+Agent0 reward is 43.2
+US agents hit = 5.8
+THEM agents hit = 27.8
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 3.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.8
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 7.7
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 15.0
+US agents hit = 0.6
+THEM agents hit = 2.2
+Agent6 of Franks aggressiveness is 0.82
+Agent6 reward is 0.0
+US agents hit = 5.8
+THEM agents hit = 157.7
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.03
+Agent8 reward is 457.2
+US agents hit = 0.2
+THEM agents hit = 7.9
+Training time per epochs: 2.94 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 495.5
+Av. agent reward = 55.05
+Num laser fired = 610.5
+Total US Hit (friendly fire) = 15.3
+Total THEM Hit = 172.0
+friendly fire (%) = 0.082
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 63.6
+Tribe Saxons has total reward of 53.7
+Tribe Franks has total reward of 378.1
+Dominating Tribe: Franks
+Team dominance: 6.44x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.05
+Agent0 reward is 60.7
+US agents hit = 12.1
+THEM agents hit = 42.8
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 2.9
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 4.2
+US agents hit = 0.1
+THEM agents hit = 1.1
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 21.5
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent5 of Saxons aggressiveness is 0.01
+Agent5 reward is 28.0
+US agents hit = 2.2
+THEM agents hit = 6.3
+Agent6 of Franks aggressiveness is 0.51
+Agent6 reward is 0.0
+US agents hit = 0.8
+THEM agents hit = 103.7
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.04
+Agent8 reward is 378.1
+US agents hit = 0.1
+THEM agents hit = 18.1
+Training time per epochs: 2.97 sec
+###### Dir = MA_models/3T-9L/cooperative/cf50/ #######
+###### Trained episodes = 1000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 402.0
+Av. agent reward = 44.66
+Num laser fired = 824.4
+Total US Hit (friendly fire) = 28.6
+Total THEM Hit = 197.3
+friendly fire (%) = 0.127
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 58.7
+Tribe Saxons has total reward of 60.4
+Tribe Franks has total reward of 282.8
+Dominating Tribe: Franks
+Team dominance: 4.75x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.02
+Agent1 reward is 58.7
+US agents hit = 0.6
+THEM agents hit = 3.8
+Agent2 of Vikings aggressiveness is 0.01
+Agent2 reward is 0.0
+US agents hit = 0.4
+THEM agents hit = 1.5
+Agent3 of Saxons aggressiveness is 0.03
+Agent3 reward is 1.3
+US agents hit = 1.3
+THEM agents hit = 3.0
+Agent4 of Saxons aggressiveness is 0.01
+Agent4 reward is 59.1
+US agents hit = 0.1
+THEM agents hit = 4.8
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.3
+Agent6 of Franks aggressiveness is 0.04
+Agent6 reward is 2.2
+US agents hit = 6.1
+THEM agents hit = 12.0
+Agent7 of Franks aggressiveness is 0.69
+Agent7 reward is 0.0
+US agents hit = 19.2
+THEM agents hit = 167.5
+Agent8 of Franks aggressiveness is 0.03
+Agent8 reward is 280.6
+US agents hit = 0.8
+THEM agents hit = 4.4
+Training time per epochs: 2.93 sec
+###### Trained episodes = 2000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 481.8
+Av. agent reward = 53.53
+Num laser fired = 1058.5
+Total US Hit (friendly fire) = 29.8
+Total THEM Hit = 213.9
+friendly fire (%) = 0.122
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 16.0
+Tribe Saxons has total reward of 10.2
+Tribe Franks has total reward of 455.6
+Dominating Tribe: Franks
+Team dominance: 34.78x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.00
+Agent1 reward is 16.0
+US agents hit = 0.0
+THEM agents hit = 0.9
+Agent2 of Vikings aggressiveness is 0.00
+Agent2 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.0
+Agent3 of Saxons aggressiveness is 0.01
+Agent3 reward is 0.7
+US agents hit = 0.7
+THEM agents hit = 0.7
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 9.4
+US agents hit = 0.2
+THEM agents hit = 1.3
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.1
+US agents hit = 0.7
+THEM agents hit = 0.5
+Agent7 of Franks aggressiveness is 0.95
+Agent7 reward is 0.0
+US agents hit = 27.5
+THEM agents hit = 208.6
+Agent8 of Franks aggressiveness is 0.08
+Agent8 reward is 455.4
+US agents hit = 0.7
+THEM agents hit = 1.8
+Training time per epochs: 2.93 sec
+###### Trained episodes = 3000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 469.7
+Av. agent reward = 52.19
+Num laser fired = 1069.9
+Total US Hit (friendly fire) = 42.4
+Total THEM Hit = 175.1
+friendly fire (%) = 0.195
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 103.2
+Tribe Saxons has total reward of 21.2
+Tribe Franks has total reward of 345.3
+Dominating Tribe: Franks
+Team dominance: 5.55x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.01
+Agent1 reward is 103.2
+US agents hit = 0.0
+THEM agents hit = 2.3
+Agent2 of Vikings aggressiveness is 0.02
+Agent2 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.9
+Agent3 of Saxons aggressiveness is 0.06
+Agent3 reward is 1.5
+US agents hit = 0.6
+THEM agents hit = 2.3
+Agent4 of Saxons aggressiveness is 0.00
+Agent4 reward is 19.7
+US agents hit = 0.0
+THEM agents hit = 0.3
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 0.1
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.5
+US agents hit = 0.4
+THEM agents hit = 0.7
+Agent7 of Franks aggressiveness is 0.96
+Agent7 reward is 0.0
+US agents hit = 40.7
+THEM agents hit = 165.4
+Agent8 of Franks aggressiveness is 0.02
+Agent8 reward is 344.8
+US agents hit = 0.5
+THEM agents hit = 3.1
+Training time per epochs: 2.94 sec
+###### Trained episodes = 4000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 389.6
+Av. agent reward = 43.29
+Num laser fired = 1010.7
+Total US Hit (friendly fire) = 1.1
+Total THEM Hit = 231.7
+friendly fire (%) = 0.005
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 368.5
+Tribe Saxons has total reward of 12.4
+Tribe Franks has total reward of 8.7
+Dominating Tribe: Vikings
+Team dominance: 34.99x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.02
+Agent1 reward is 368.5
+US agents hit = 0.0
+THEM agents hit = 0.9
+Agent2 of Vikings aggressiveness is 0.97
+Agent2 reward is 0.0
+US agents hit = 0.1
+THEM agents hit = 225.2
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.02
+Agent4 reward is 12.4
+US agents hit = 1.0
+THEM agents hit = 5.5
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 8.7
+US agents hit = 0.0
+THEM agents hit = 0.1
+Training time per epochs: 2.90 sec
+###### Trained episodes = 5000 #######
+Load saved model for agent 0
+Load saved model for agent 1
+Load saved model for agent 2
+Load saved model for agent 3
+Load saved model for agent 4
+Load saved model for agent 5
+Load saved model for agent 6
+Load saved model for agent 7
+Load saved model for agent 8
+..............................
+Average Statistics in Aggregate
+=================================
+Total rewards gathered = 488.4
+Av. agent reward = 54.27
+Num laser fired = 1012.6
+Total US Hit (friendly fire) = 1.6
+Total THEM Hit = 209.2
+friendly fire (%) = 0.008
+
+Average Statistics by Tribe
+=============================
+Tribe Vikings has total reward of 438.1
+Tribe Saxons has total reward of 44.9
+Tribe Franks has total reward of 5.4
+Dominating Tribe: Vikings
+Team dominance: 17.42x
+
+Average Statistics by Agent
+=============================
+Agent0 of Vikings aggressiveness is 0.00
+Agent0 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent1 of Vikings aggressiveness is 0.01
+Agent1 reward is 438.1
+US agents hit = 0.0
+THEM agents hit = 1.1
+Agent2 of Vikings aggressiveness is 0.97
+Agent2 reward is 0.0
+US agents hit = 0.2
+THEM agents hit = 200.8
+Agent3 of Saxons aggressiveness is 0.00
+Agent3 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent4 of Saxons aggressiveness is 0.04
+Agent4 reward is 44.9
+US agents hit = 1.4
+THEM agents hit = 7.1
+Agent5 of Saxons aggressiveness is 0.00
+Agent5 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent6 of Franks aggressiveness is 0.00
+Agent6 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.0
+Agent7 of Franks aggressiveness is 0.00
+Agent7 reward is 0.0
+US agents hit = 0.0
+THEM agents hit = 0.1
+Agent8 of Franks aggressiveness is 0.00
+Agent8 reward is 5.4
+US agents hit = 0.0
+THEM agents hit = 0.1
+Training time per epochs: 2.91 sec
+[38.148148148148145, 38.94814814814815, 39.51111111111111, 40.992592592592594, 41.84074074074074]
+[40.36296296296296, 41.903703703703705, 45.36296296296296, 45.12592592592593, 43.422222222222224]
+[31.992592592592594, 35.85925925925926, 33.855555555555554, 35.148148148148145, 39.903703703703705]
+[39.27407407407407, 44.40740740740741, 46.425925925925924, 49.10740740740741, 52.09259259259259]
+[37.096296296296295, 50.39259259259259, 43.87037037037037, 42.03703703703704, 51.07037037037037]
+[34.88148148148148, 36.21111111111111, 33.01111111111111, 34.84444444444445, 38.22592592592593]
+[41.11851851851852, 30.17777777777778, 43.762962962962966, 51.90740740740741, 65.04814814814814]
+[27.799999999999997, 44.48888888888889, 52.87037037037037, 58.53703703703704, 55.05185185185185]
+[44.66296296296296, 53.529629629629625, 52.18518518518519, 43.28888888888889, 54.266666666666666]
+['Vikings', 'Vikings', 'Vikings', 'Franks', 'Vikings']
+['Franks', 'Franks', 'Franks', 'Franks', 'Franks']
+['Franks', 'Franks', 'Vikings', 'Vikings', 'Franks']
+['Saxons', 'Saxons', 'Saxons', 'Saxons', 'Saxons']
+['Saxons', 'Saxons', 'Saxons', 'Franks', 'Franks']
+['Franks', 'Franks', 'Franks', 'Franks', 'Franks']
+['Franks', 'Saxons', 'Saxons', 'Saxons', 'Saxons']
+['Franks', 'Franks', 'Franks', 'Franks', 'Franks']
+['Franks', 'Franks', 'Franks', 'Vikings', 'Vikings']
+[2.519526106117939, 1.5012485425413484, 1.3140726927094686, 2.030589947796623, 1.364204883189119]
+[2.193151210612274, 15.168436987818023, 21.065913305539077, 225.7383107949869, 6.0191518399920625]
+[2.537956393912462, 1.45971055836751, 2.155944531231049, 2.2527447888339553, 1.319162044924024]
+[1.1853409426386867, 1.416441087808198, 2.0442006764404157, 1.7640880048514564, 1.8560657976524992]
+[1.5261397632395244, 1.9632974065716744, 1.222690789819769, 1.7360105323026938, 28.847874613872488]
+[5.145675259112014, 2.6479676708489914, 1.4208405287490358, 1.479289939925729, 3.7853138978442993]
+[23.40503423657139, 1.9051042400462868, 1.827044533436559, 2.2715635465565134, 5.365485423001447]
+[1.5506149467556694, 3.402293678608597, 3.7352350316741108, 13.124401893152855, 6.443055943975554]
+[4.748181305073028, 34.77608127892996, 5.55495978060821, 34.98734158946484, 17.41948306329737]
